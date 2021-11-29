@@ -1,8 +1,4 @@
 ---
-title: "Homework 3:  User Behaviors in Digital Applications"
-author: "Sneha Dillybabu"
-date: "26th Oct 2021"
-output: html_document
 ---
 
 ```{r setup, include=FALSE}
